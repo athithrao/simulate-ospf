@@ -1,2 +1,2 @@
-# simulate-ospf
-Simulating a Open Link State Routing Protocol
+# CS457Project3
+Project 3
